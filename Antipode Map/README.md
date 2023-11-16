@@ -22,7 +22,7 @@ antipode_plotters.py contains two plotting functions that use the grid, antipode
 
 There are a number of options for both functions:
 - ShowOceans: set to True to show antipode values for the oceans. Defaults to False (only antipodes to continents are shown)
-- ShowPoint: by default is set to True and shows a point in the NE US and its antipode in the SW Indian Ocean. The location of the point can be changed by supplying pointlong and pointlat values when calling the function, and setting ShowPoint=False will show no point.  
+- ShowPoint: by default is set to True and shows a point in the NE US and its antipode in the SE Indian Ocean. The location of the point can be changed by supplying pointlong and pointlat values when calling the function, and setting ShowPoint=False will show no point.  
 - filename: if supplied will save a png with the given path and name. If not supplied, no file will be created but image should display in interactive mode.  
 
 Additional function for antipode_map_Robinson()
