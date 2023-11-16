@@ -39,10 +39,15 @@ We can then call the plotting functions:
 
 	fig=antipode_map_Robinson(X,Y,result, ShowOceans=True, ShowPoint=False, filename="./images/Antipodal_Lithosphere_Type_With_Oceans_Robinson.png")
 
-
-
 ![](./images/Antipodal_Lithosphere_Type_With_Oceans_Robinson.png)
 
+	fig=antipode_map_Perspective(X,Y,result, filename="./images/Antipodal_Lithosphere_Ohio_No_Oceans_Perspective.png")
+
+![](./images/Antipodal_Lithosphere_Ohio_No_Oceans_Perspective.png)
+
+	fig=antipode_map_Robinson(X,Y,result, Recenter=True, pointlat=51.80, pointlong=0.9, filename="./images/Antipodal_Lithosphere_UK_No_Oceans_Robinson.png")
+	
+![](./images/Antipodal_Lithosphere_UK_No_Oceans_Robinson.png)
 
 ## Dependencies
 To work this code requires the following libraries:
