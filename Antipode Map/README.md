@@ -5,7 +5,7 @@ When I've taught Introductory Geology, in one of my first classes I go over the 
 
 I do this by drilling an imaginary hole through the centre of the Earth[^1]. If you start at most points on the Earth's continents, the antipode where you end up is in an ocean basin[^2], which means there is an easy way to compare and contrast the continental and oceanic lithosphere. 
 
-Although [there are](https://commons.wikimedia.org/wiki/File:Antipodes_LAEA.png) [maps out there](https://thomasguymer.co.uk/blog/2018/2018-04-05/) that overlay the transposed outlines of the continents to illustrate the location of antipodes, but I've never really found one I truly liked. Part of this is that the physiographic oceans and continents do not exactly map onto regions of continental and oceanic crust. 
+Although [there are](https://commons.wikimedia.org/wiki/File:Antipodes_LAEA.png) [maps out there](https://thomasguymer.co.uk/blog/2018/2018-04-05/) that overlay the transposed outlines of the continents to illustrate the location of antipodes, I've never really found one I truly liked. Part of this is that the physiographic oceans and continents do not exactly map onto regions of continental and oceanic crust. 
 
 So when I discovered while playing around with Hasterok at al. (2022)'s [recently published](https://doi.org/10.1016/j.earscirev.2022.104069) set of [updated global tectonic and geological province boundaries](https://github.com/dhasterok/global_tectonics) that each of their plate polygons had an attribute telling you whether it was composed of oceanic or continental crust[^3], I decided to see what that could get me. 
 
