@@ -49,6 +49,12 @@ We can then call the plotting functions:
 	
 ![](./images/Antipodal_Lithosphere_UK_No_Oceans_Robinson.png)
 
+	fig=antipode_map_Perspective(X,Y,result, pointlat=-26.2, pointlong=28.0, filename="./images/Antipodal_Lithosphere_SA_With_Oceans_Perspective.png")
+
+![](./images/Antipodal_Lithosphere_SA_With_Oceans_Perspective.png)
+
+These and some other examples can be found in the 'images' directory.
+
 ## Dependencies
 To work this code requires the following libraries:
 - numpy

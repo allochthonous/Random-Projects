@@ -38,7 +38,8 @@ fig=antipode_map_Perspective(X,Y,result, ShowOceans=True, filename="./images/Ant
 fig=antipode_map_Robinson(X,Y,result, Recenter=True, pointlat=51.80, pointlong=0.9, filename="./images/Antipodal_Lithosphere_UK_No_Oceans_Robinson.png")
 fig=antipode_map_Perspective(X,Y,result, pointlat=51.80, pointlong=0.9, filename="./images/Antipodal_Lithosphere_UK_No_Oceans_Perspective.png")
 
-# plot of all just onland classifications - with a defined reference point in South Africa
+# plots with a defined reference point in South Africa
 fig=antipode_map_Robinson(X,Y,result, Recenter=True, pointlat=-26.2, pointlong=28.0, filename="./images/Antipodal_Lithosphere_SA_No_Oceans_Robinson.png")
 fig=antipode_map_Perspective(X,Y,result, pointlat=-26.2, pointlong=28.0, filename="./images/Antipodal_Lithosphere_SA_No_Oceans_Perspective.png")
+fig=antipode_map_Perspective(X,Y,result, pointlat=-26.2, pointlong=28.0, filename="./images/Antipodal_Lithosphere_SA_With_Oceans_Perspective.png")
 
