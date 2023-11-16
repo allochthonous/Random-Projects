@@ -41,7 +41,7 @@ We can then call the plotting functions:
 
 
 
-/images/Antipodal_Lithosphere_Type_With_Oceans_Robinson.png
+![](./images/Antipodal_Lithosphere_Type_With_Oceans_Robinson.png)
 
 
 ## Dependencies
